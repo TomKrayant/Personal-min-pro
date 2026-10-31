@@ -1,0 +1,10 @@
+{
+  "name": "linhu-pet",
+  "productName": "林虎桌宠",
+  "version": "1.0.0",
+  "description": "A chibi Linhu desktop pet for DeepSeek Harness (DSH) with live token usage.",
+  "main": "src/main.cjs",
+  "author": "Linhu Pet",
+  "license": "MIT",
+  "private": true
+}
